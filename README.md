@@ -1,10 +1,45 @@
 # 📜 Open Attribution License (OAL) 1.0
 
-[![License: OAL 1.0](https://img.shields.io/badge/License-OAL%201.0-blue.svg)](./LICENSE)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen.svg)]()
-[![Attribution Required](https://img.shields.io/badge/Attribution-Required-orange.svg)]()
+<p align="center">
+  <a href="./LICENSE" aria-label="License: OAL 1.0">
+    <img src="https://img.shields.io/badge/License-OAL%201.0-0066cc?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="License: OAL 1.0" />
+  </a>
+  <a href="#" aria-label="Open Source">
+    <img src="https://img.shields.io/badge/Open%20Source-Yes-28a745?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
+  </a>
+  <a href="#-attribution-requirements" aria-label="Attribution Required">
+    <img src="https://img.shields.io/badge/Attribution-Required-ff6b35?style=for-the-badge&logo=creative-commons&logoColor=white" alt="Attribution Required" />
+  </a>
+</p>
 
-> 🌍 A modern open source license for the AI era. Built for mixed projects containing code, content, media, and datasets.
+<p align="center">
+  <a href="#-what-is-oal" aria-label="View Documentation">
+    <img src="https://img.shields.io/badge/📖_Documentation-Read_Now-6f42c1?style=for-the-badge" alt="Documentation" />
+  </a>
+  <a href="#-quick-start" aria-label="Quick Start">
+    <img src="https://img.shields.io/badge/🚀_Quick_Start-Get_Started-20c997?style=for-the-badge" alt="Quick Start" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  🌍 <strong>A modern open source license for the AI era</strong><br>
+  <em>Built for mixed projects containing code, content, media, and datasets</em>
+</p>
+
+---
+
+## 📋 Table of Contents
+
+- [What is OAL?](#-what-is-oal)
+- [Key Features](#-key-features)
+- [Quick Start](#-quick-start)
+- [License Summary](#-license-summary)
+- [AI Content Support](#-ai-content--oal)
+- [International Compliance](#-international-compliance)
+- [FAQ](#-frequently-asked-questions)
+- [Contributing](#-contributing)
 
 ---
 
@@ -12,147 +47,204 @@
 
 The **Open Attribution License (OAL)** is a free, open source license designed for today's diverse digital landscape. Unlike traditional software licenses, OAL covers:
 
-- 💻 **Software Code** - Source code, libraries, frameworks, and applications
-- 📝 **Documentation** - Guides, manuals, and written content
-- 🎨 **Media Files** - Images, audio, video, and graphics
-- 🗄️ **Databases & Datasets** - Structured data and training data
-- 🤖 **AI-Generated Content** - Code and media created by AI systems
-- 🌐 **Web & Mobile Apps** - Complete applications and services
+| Type | Icon | Description |
+|------|------|-------------|
+| **Software Code** | 💻 | Source code, libraries, frameworks, and applications |
+| **Documentation** | 📝 | Guides, manuals, and written content |
+| **Media Files** | 🎨 | Images, audio, video, and graphics |
+| **Databases** | 🗄️ | Structured data and training datasets |
+| **AI Content** | 🤖 | Code and media created by AI systems |
+| **Applications** | 🌐 | Web and mobile apps, complete services |
 
 ---
 
 ## 🎯 Key Features
 
+<p align="center">
+
 ### ✅ Free to Use
-Use OAL-licensed work for **personal, educational, or commercial purposes** at no cost.
+**No cost** for personal, educational, or commercial purposes
 
 ### 🏷️ Attribution Required
-Give credit where credit is due. Clear attribution to the original creator is mandatory.
+**Give credit** to the original creator. Mandatory and clear
 
 ### 🤖 AI-Ready
-First license with explicit provisions for AI-generated content and human-AI collaboration.
+**First license** with explicit AI-generated content provisions
 
 ### 🌐 International
-Compliant with global copyright treaties including Berne Convention, TRIPS, and WIPO agreements.
+**Global compliance** with Berne Convention, TRIPS, and WIPO
 
 ### ⚖️ Legally Sound
-Comprehensive legal framework with dispute resolution and international enforcement mechanisms.
+**Comprehensive framework** with dispute resolution
+
+</p>
 
 ---
 
 ## 🚀 Quick Start
 
-### For Project Owners
+### 📝 For Project Owners
 
-1. **Copy the license** into your project root as `LICENSE`:
-   ```
-   Copyright (c) [YEAR] [YOUR NAME]
-   
-   [Paste full OAL license text here]
-   ```
+<details>
+<summary><strong>Step 1: Copy the license</strong> (Click to expand)</summary>
 
-2. **Add a badge** to your README:
-   ```markdown
-   [![License: OAL 1.0](https://img.shields.io/badge/License-OAL%201.0-blue.svg)](./LICENSE)
-   ```
+Create a file named `LICENSE` in your project root:
 
-3. **Done!** Your project is now protected under OAL 1.0.
+```text
+Copyright (c) [YEAR] [YOUR NAME]
 
-### For Users
-
-When using OAL-licensed work, include attribution like this:
-
-**For Code:**
+[Full OAL license text here]
 ```
+
+</details>
+
+<details>
+<summary><strong>Step 2: Add a badge</strong> (Click to expand)</summary>
+
+Add this to your README.md:
+
+```markdown
+[![License: OAL 1.0](https://img.shields.io/badge/License-OAL%201.0-blue.svg)](./LICENSE)
+```
+
+</details>
+
+<details>
+<summary><strong>Step 3: Done!</strong> (Click to expand)</summary>
+
+Your project is now protected under OAL 1.0. Users must give attribution when using your work.
+
+</details>
+
+### 👥 For Users
+
+When using OAL-licensed work, include attribution:
+
+**💻 For Code:**
+```text
 This project uses [Work Title] by [Author Name]. 
 Copyright [Year] [Copyright Holder]. Licensed under OAL 1.0.
 ```
 
-**For Media:**
-```
+**🎨 For Media:**
+```text
 [Work Title] by [Author Name], licensed under OAL 1.0.
 ```
 
-**For Documentation:**
-```
+**📝 For Documentation:**
+```text
 Portions of this document come from [Work Title] by [Author Name], 
 OAL 1.0 license.
 ```
 
 ---
 
-## 📋 License Summary
+## 📊 License Summary
 
-| Permission | ✅ Allowed |
-|------------|-----------|
+### ✅ Permissions
+
+| Permission | Description |
+|------------|-------------|
 | ✅ Commercial use | Use in products and services |
 | ✅ Modification | Create derivative works |
 | ✅ Distribution | Share with others |
 | ✅ Private use | Use in personal projects |
 | ✅ Sublicensing | Include in larger projects |
 
-| Condition | 📋 Required |
+### 📋 Conditions
+
+| Condition | Description |
 |-----------|-------------|
 | 🏷️ Attribution | Credit the original author |
 | 📄 License notice | Include license text |
 | 🔄 Same license | Keep OAL for original parts |
 
-| Limitation | ⚠️ Not Provided |
-|------------|-----------------|
+### ⚠️ Limitations
+
+| Limitation | Description |
+|------------|-------------|
 | ⚠️ No warranty | Use at your own risk |
-| ⚠️ No liability | Authors not responsible for damages |
+| ⚠️ No liability | Authors not responsible |
 | ⚠️ No trademark rights | Separate permission needed |
 
 ---
 
 ## 🤖 AI Content & OAL
 
-OAL is the first open source license with explicit support for AI-generated content:
+OAL is the **first open source license** with explicit support for AI-generated content:
 
-- **AI-Generated Code** - Licensed like human-written code
-- **AI-Generated Media** - Clear attribution requirements
-- **Human-AI Collaboration** - Guidelines for mixed authorship
-- **Transparency** - Requirements to identify AI-created portions
+<p align="center">
+
+| Feature | Support |
+|---------|---------|
+| 🤖 **AI-Generated Code** | Licensed like human-written code |
+| 🎨 **AI-Generated Media** | Clear attribution requirements |
+| 👤 **Human-AI Collaboration** | Guidelines for mixed authorship |
+| 🔍 **Transparency** | Identify AI-created portions |
+
+</p>
 
 ---
 
 ## 🌍 International Compliance
 
-OAL 1.0 is designed for global use:
+OAL 1.0 is designed for **global use**:
 
-- ✅ Compliant with **Berne Convention**
-- ✅ Compliant with **TRIPS Agreement**
-- ✅ Compliant with **WIPO Copyright Treaty**
-- ✅ Recognizes **GDPR** and **CCPA** data protection
-- ✅ Enforceable across **multiple jurisdictions**
+<p align="center">
 
----
+✅ Berne Convention  
+✅ TRIPS Agreement  
+✅ WIPO Copyright Treaty  
+✅ GDPR & CCPA Compliance  
+✅ Multi-Jurisdiction Enforcement  
 
-## 📚 Full License Text
-
-See [OAL.md](./docs/OAL.md) for the complete license text.
+</p>
 
 ---
 
 ## ❓ Frequently Asked Questions
 
-### Do I have to pay to use OAL?
+<details>
+<summary><strong>💰 Do I have to pay to use OAL?</strong></summary>
+
 **No!** OAL is completely free to use, modify, and distribute.
 
-### Can I use OAL for commercial projects?
+</details>
+
+<details>
+<summary><strong>💼 Can I use OAL for commercial projects?</strong></summary>
+
 **Yes!** OAL explicitly permits commercial use. Just give proper attribution.
 
-### What if I modify the work?
+</details>
+
+<details>
+<summary><strong>🔧 What if I modify the work?</strong></summary>
+
 You must keep the original attribution and license for the original parts. You can add your own license for your modifications.
 
-### Does OAL work with other licenses?
+</details>
+
+<details>
+<summary><strong>🔗 Does OAL work with other licenses?</strong></summary>
+
 Yes! You can combine OAL-licensed work with other open source licenses. Just comply with all applicable licenses.
 
-### What happens if I don't give attribution?
+</details>
+
+<details>
+<summary><strong>⚠️ What happens if I don't give attribution?</strong></summary>
+
 Your license terminates automatically. You must stop using the work immediately.
 
-### Is there a warranty?
-**No.** OAL-licensed work comes "as is" without any warranty or guarantee.
+</details>
+
+<details>
+<summary><strong>🛡️ Is there a warranty?</strong></summary>
+
+**No.** OAL-licensed work comes without any warranty or guarantee.
+
+</details>
 
 ---
 
@@ -160,41 +252,45 @@ Your license terminates automatically. You must stop using the work immediately.
 
 Want to improve OAL? We welcome feedback and suggestions!
 
-- 🐛 Found an issue? [Open an issue](../../issues)
-- 💡 Have a suggestion? [Start a discussion](../../discussions)
-- 📝 Want to contribute? See our [Contributing Guide](./CONTRIBUTING.md)
+<p align="center">
+
+🐛 [Open an issue](../../issues)  
+💡 [Start a discussion](../../discussions)  
+📝 [Contributing Guide](./CONTRIBUTING.md)
+
+</p>
 
 ---
 
-## 📖 Related Resources
+## 📚 Resources
 
-- 📜 [Full License Text](./docs/OAL.md)
-- 🎓 [Attribution Examples](./docs/ATTRIBUTION.md)
-- 🛠️ [Implementation Guide](./docs/IMPLEMENTATION.md)
-- ⚖️ [Legal FAQ](./docs/LEGAL-FAQ.md)
+<p align="center">
+
+📜 [Full License Text](./docs/OAL.md)  
+🎓 [Attribution Examples](./docs/ATTRIBUTION.md)  
+🛠️ [Implementation Guide](./docs/IMPLEMENTATION.md)  
+⚖️ [Legal FAQ](./docs/LEGAL-FAQ.md)
+
+</p>
 
 ---
 
 ## ⚠️ Disclaimer
 
-**This license is provided "as is" without warranty of any kind.** The authors and contributors are not liable for any damages arising from the use of this license. See Section 6.4 and 6.5 of the full license for complete warranty and liability disclaimers.
+**This license is provided without warranty of any kind.** The authors and contributors are not liable for any damages arising from the use of this license. See Section 6.4 and 6.5 of the full license for complete warranty and liability disclaimers.
 
 ---
 
-## 📞 Contact
-
-Have questions? Reach out to us:
-
-- 💬 [GitHub Discussions](../../discussions)
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🐦 Twitter: [@OALLicense](https://twitter.com/OALLicense)
-
----
-
-<div align="center">
+<p align="center">
 
 **Made with ❤️ for the open source community**
 
-⭐ Star this repo if you find OAL useful!
+⭐ Star this repo if you find OAL useful! ⭐
 
-</div>
+</p>
+
+---
+
+<p align="center">
+  <sub>Built with accessibility in mind. Screen reader friendly.</sub>
+</p>
