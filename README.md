@@ -19,6 +19,9 @@
   <a href="#-quick-start" aria-label="Quick Start">
     <img src="https://img.shields.io/badge/🚀_Quick_Start-Get_Started-20c997?style=for-the-badge" alt="Quick Start" />
   </a>
+  <a href="https://github.com/Shaerif/oal" aria-label="Star on GitHub">
+    <img src="https://img.shields.io/github/stars/Shaerif/oal?style=social" alt="Star on GitHub" />
+  </a>
 </p>
 
 ---
@@ -256,7 +259,7 @@ Want to improve OAL? We welcome feedback and suggestions!
 
 🐛 [Open an issue](../../issues)  
 💡 [Start a discussion](../../discussions)  
-📝 [Contributing Guide](./CONTRIBUTING.md)
+📝 [Contributing Guide](./docs/CONTRIBUTING.md)
 
 </p>
 
