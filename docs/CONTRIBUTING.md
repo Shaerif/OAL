@@ -33,7 +33,6 @@ For license improvements or new features:
 - 🌍 Translations
 - 🎨 Better examples and templates
 - ⚖️ Legal clarity enhancements
-- ♿ Accessibility improvements
 
 ## 📋 Guidelines
 
