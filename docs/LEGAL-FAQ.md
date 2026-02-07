@@ -276,6 +276,94 @@ OAL permits educational use. You must still give attribution. Educational instit
 - Include attribution in course materials
 - Comply with institutional policies
 
+### Can I use OAL for internal corporate projects?
+
+Yes. OAL permits internal use within organizations. You must:
+- Maintain attribution in internal documentation
+- Keep license notices in source code
+- Document OAL-licensed components in project inventories
+- Ensure compliance if the project becomes public
+
+### What happens if I accidentally violate OAL?
+
+If you discover an accidental violation:
+1. Stop using the work immediately
+2. Add proper attribution
+3. Notify the licensor of your correction
+4. Document the correction process
+
+If corrected within 30 days of discovery, the license may be reinstated.
+
+### Can I sublicense OAL-licensed work?
+
+Yes, you can include OAL-licensed work in larger projects and distribute them. However:
+- You must keep OAL for the OAL-licensed portions
+- You must provide attribution to the original licensor
+- You cannot remove or modify the original license
+- Recipients receive the same OAL rights
+
+### What if the licensor cannot be contacted?
+
+If you cannot contact the licensor:
+- Still provide proper attribution
+- Keep all license notices
+- Document your attempts to contact
+- Maintain records of your compliance
+
+### Can I use OAL-licensed work in a proprietary product?
+
+Yes, OAL permits commercial use in proprietary products. You must:
+- Include attribution in user-facing materials
+- Provide license information in documentation
+- Keep OAL for the OAL-licensed portions
+- Not claim ownership of the OAL-licensed work
+
+### What about derivative works in different languages?
+
+Translations and adaptations are derivative works. You must:
+- Keep original attribution
+- Add your own copyright for the translation
+- State the nature of the adaptation
+- Apply OAL to the original portions
+- Provide attribution in the target language
+
+### Can I use OAL-licensed work in training materials?
+
+Yes. You must:
+- Attribute the original work
+- Include license information
+- Not claim the work as your own
+- Keep attribution in all distributed materials
+
+### What if I want to change the license of my derivative work?
+
+You can add your own license to your modifications, but:
+- The original work remains under OAL
+- You must keep OAL attribution for original portions
+- Clearly separate your contributions
+- Document which parts use which license
+
+### Can I use OAL-licensed work in open source hardware?
+
+Yes. OAL covers digital content including:
+- Firmware source code
+- Design documentation
+- Schematics and diagrams
+- Configuration files
+- Associated software
+
+You must provide attribution in hardware documentation.
+
+### What about using OAL-licensed work in AI training?
+
+You can use OAL-licensed work to train AI models if:
+- You give attribution to the original work
+- You comply with all OAL terms
+- You document the training data source
+- You consider data protection laws (GDPR, CCPA)
+
+The AI-generated output may require attribution to both the original work and the AI tool used.
+
 ---
 
 ## 📞 Getting Help

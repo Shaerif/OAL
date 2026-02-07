@@ -1,7 +1,7 @@
 # 📜 Open Attribution License (OAL) 1.0
 
 <p align="center">
-  <a href="./LICENSE" aria-label="License: OAL 1.0">
+  <a href="./docs/OAL.md" aria-label="License: OAL 1.0">
     <img src="https://img.shields.io/badge/License-OAL%201.0-0066cc?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="License: OAL 1.0" />
   </a>
   <a href="#" aria-label="Open Source">
@@ -107,7 +107,7 @@ Copyright (c) [YEAR] [YOUR NAME]
 Add this to your README.md:
 
 ```markdown
-[![License: OAL 1.0](https://img.shields.io/badge/License-OAL%201.0-blue.svg)](./LICENSE)
+[![License: OAL 1.0](https://img.shields.io/badge/License-OAL%201.0-blue.svg)](./docs/OAL.md)
 ```
 
 </details>
@@ -153,6 +153,7 @@ OAL 1.0 license.
 | ✅ Distribution | Share with others |
 | ✅ Private use | Use in personal projects |
 | ✅ Sublicensing | Include in larger projects |
+| ✅ AI training | Use for training AI models |
 
 ### 📋 Conditions
 
@@ -161,6 +162,7 @@ OAL 1.0 license.
 | 🏷️ Attribution | Credit the original author |
 | 📄 License notice | Include license text |
 | 🔄 Same license | Keep OAL for original parts |
+| 🤖 AI identification | Identify AI-generated content |
 
 ### ⚠️ Limitations
 
@@ -169,6 +171,7 @@ OAL 1.0 license.
 | ⚠️ No warranty | Use at your own risk |
 | ⚠️ No liability | Authors not responsible |
 | ⚠️ No trademark rights | Separate permission needed |
+| ⚠️ No patent rights | Separate agreements required |
 
 ---
 
@@ -249,6 +252,27 @@ Your license terminates automatically. You must stop using the work immediately.
 
 </details>
 
+<details>
+<summary><strong>🤖 Can I use OAL-licensed work to train AI?</strong></summary>
+
+Yes! You can use OAL-licensed work for AI training, but you must give attribution and comply with all OAL terms.
+
+</details>
+
+<details>
+<summary><strong>🌍 Is OAL recognized internationally?</strong></summary>
+
+Yes! OAL is designed for global use and complies with major international copyright treaties including Berne Convention, TRIPS, and WIPO.
+
+</details>
+
+<details>
+<summary><strong>📝 How do I attribute OAL-licensed work?</strong></summary>
+
+Include the copyright notice, author name, work title, license name (OAL 1.0), and a link to the original work.
+
+</details>
+
 ---
 
 ## 🤝 Contributing
@@ -258,8 +282,7 @@ Want to improve OAL? We welcome feedback and suggestions!
 <p align="center">
 
 🐛 [Open an issue](../../issues)  
-💡 [Start a discussion](../../discussions)  
-📝 [Contributing Guide](./docs/CONTRIBUTING.md)
+💡 [Start a discussion](../../discussions)
 
 </p>
 
@@ -270,8 +293,6 @@ Want to improve OAL? We welcome feedback and suggestions!
 <p align="center">
 
 📜 [Full License Text](./docs/OAL.md)  
-🎓 [Attribution Examples](./docs/ATTRIBUTION.md)  
-🛠️ [Implementation Guide](./docs/IMPLEMENTATION.md)  
 ⚖️ [Legal FAQ](./docs/LEGAL-FAQ.md)
 
 </p>
